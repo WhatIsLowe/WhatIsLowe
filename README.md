@@ -13,8 +13,7 @@
 
 
 ## 📝 Обо мне 
-<table>
-  <tr><td valign="top" width="50%">
+
 
 -  🔭 В данный момент нахожусь в активном поиске работы  
   
@@ -24,11 +23,20 @@
 
 - 🙈 Изучаю PostgreSQL и Redis
 
-  </td>
-  <td>
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/656619e05145316d2588329e?variant=light" alt="roadmap.sh"/></a>
-  </td></tr>
+
+<br/>
+
+## Мой прогресс
+<table>
+  <tr>
+    <td>
+      <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/656619e05145316d2588329e?variant=light" alt="roadmap.sh"/></a>
+    </td>
+  </tr>
 </table>
+
+[![](https://leetcard.jacoblin.cool/vanterman?theme=white)](https://leetcode.com/vanterman)
+
 <br/>  
 
 
