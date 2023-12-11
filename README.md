@@ -26,7 +26,7 @@
 
 <br/>
 
-## Мой прогресс
+## 📈 Мой прогресс
 <table>
   <tr>
     <td>
@@ -58,7 +58,7 @@
 <br/>  
 
 
-## 📈 Статистика Github  
+## 😿 Статистика Github  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhatIsLowe&hide_border=true&layout=compact" align="center" style="width: 50%, height: 50%" /></div>
 
